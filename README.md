@@ -1,1 +1,1 @@
-# m-curso-github
+# mini-curso-github
